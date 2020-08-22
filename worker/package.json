@@ -1,0 +1,17 @@
+{
+  "name": "complex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Pedro Loch",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "*",
+    "redis": "*"
+  }
+}
